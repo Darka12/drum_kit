@@ -1,5 +1,13 @@
-body {
-    background-color: white;
+html {
+    background-image: url("https://i.pinimg.com/originals/90/de/6a/90de6a722188fc9a9c0835db1f0e5500.jpg");
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .keys {
@@ -12,7 +20,7 @@ body {
     border: 5px solid black;
     border-radius: .5rem;
     margin-left: 10px;
-    margin-top: 15em;
+    margin-top: 5em;
     margin-bottom: auto;
     font-size: 1.5rem;
     padding: 1rem .5rem;
@@ -25,7 +33,7 @@ body {
     border: 10px solid orange;
     border-radius: .5rem;
     margin-left: 10px;
-    margin-top: 15em;
+    margin-top: 5em;
     margin-bottom: auto;
     font-size: 1.5rem;
     padding: 1rem .5rem;
